@@ -1,0 +1,7 @@
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow[and-cuda]
+joblib
+jupyter
