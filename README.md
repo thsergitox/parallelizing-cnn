@@ -1,11 +1,11 @@
-## Paralelizando el entrenamiento de Redes Convolucionales 
+## Paralelizando el procesamiento y entrenamiento de  Redes Neuronales con el dataset de MINST
 
 Este proyecto busca **comparar** el enfoque **paralelo** y el **secuencial** para entrenar un **clasificador tipo MLP (Multi-Layer Perceptron)** usando el dataset MNIST. A nivel conceptual, se pretende ilustrar cómo **distribuir el entrenamiento** en varios subconjuntos de datos y observar los **beneficios en tiempo de cómputo**, así como los **trade-offs** en rendimiento y precisión.
 
 ---
 
 ## **Índice**
-- [Paralelizando el entrenamiento de Redes Convolucionales](#paralelizando-el-entrenamiento-de-redes-convolucionales)
+- [Paralelizando el procesamiento y entrenamiento de  Redes Neuronales con el dataset de MINST](#paralelizando-el-procesamiento-y-entrenamiento-de--redes-neuronales-con-el-dataset-de-minst)
 - [**Índice**](#índice)
 - [**Descripción General**](#descripción-general)
 - [**Estructura de Archivos**](#estructura-de-archivos)
